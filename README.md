@@ -5,9 +5,9 @@
 
 - 🎯 I’m currently learning JavaSript
 
-- 🌍 I speak Russian (native), English
+- 📫 How to reach me **alsufahrutdinova533@mail.ru**
 
-  ### Connect with me:
+# Connect with me:
 <p align="left">
         <a href="https://t.me/cherryflavoured20" target="blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="telegram-app"/></a>
 </p>    

@@ -3,7 +3,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"></h3>
 
-- 🎯 I’m currently learning JavaSript
+- 🎯 I’m currently learning JavaScript
 
 - 📫 How to reach me **alsufahrutdinova533@mail.ru**
 
